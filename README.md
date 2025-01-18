@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?
-color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Úrsula+Fernanda;I'm+26+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing
--svg)
+https://readme-typing-svg.herokuapp.com/demo/?color=36F790&center=falso&vCenter=falso&multiline=true&repeat=verdadeiro&random=falso&lines=Ol%C3%A1%2CMeu+nome+%C3%A9+P%C3%A9ricles+Wend%2C+tenho+38+anos%2C+Sou+Brasileiro%2C+Cientista+de+dados.++Sejam+Bem+vindos+ao+meu+GitHub
 
 ### Main skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
